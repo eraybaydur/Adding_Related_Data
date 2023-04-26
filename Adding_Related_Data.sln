@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adding_Related_Data", "Adding_Related_Data\Adding_Related_Data.csproj", "{515553D0-4AB5-4A16-8C0B-F9408024A829}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{515553D0-4AB5-4A16-8C0B-F9408024A829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515553D0-4AB5-4A16-8C0B-F9408024A829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515553D0-4AB5-4A16-8C0B-F9408024A829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515553D0-4AB5-4A16-8C0B-F9408024A829}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5B3F124-7BE9-441A-AAC7-B8FB52A8F0F6}
+	EndGlobalSection
+EndGlobal
